@@ -109,7 +109,7 @@ top_rules = rules.sort_values(by='confidence', ascending=False).head(5)
 
 ## 5. Results & Top Extracted Rules
 
-Filtering with $\text{min\_support} \ge 0.0052$ and $\text{min\_confidence} \ge 0.12$ yields the following top 5 rules ordered by confidence:
+Filtering with $\text{min\*Underscore*support} \ge 0.0052$ and $\text{min\*Underscore*confidence} \ge 0.12$ yields the following top 5 rules ordered by confidence:
 
 | Rank | Antecedent ($X$) | Consequent ($Y$) | Support | Confidence | Lift |
 | --- | --- | --- | --- | --- | --- |
