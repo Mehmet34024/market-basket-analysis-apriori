@@ -14,7 +14,7 @@ Point-of-sale (POS) transactional databases typically record items on individual
 * Encode high-cardinality basket lists into a sparse boolean transaction matrix.
 * Discover frequent itemsets using the Apriori property (downward closure).
 * Generate and rank association rules based on predefined statistical metrics:
-* Minimum Support ($\text{min\_support}$): 0.0052 ($0.52\%$)
+* Minimum Support ($\text{min\support}$): 0.0052 ($0.52\%$)
 * Minimum Confidence ($\text{min\_confidence}$): `0.12` ($12.0\%$)
 
 
