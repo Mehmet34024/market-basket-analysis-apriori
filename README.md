@@ -8,7 +8,7 @@ This repository contains an end-to-end implementation of Association Rule Mining
 
 Point-of-sale (POS) transactional databases typically record items on individual rows rather than grouping them per checkout basket. To uncover cross-selling opportunities, optimize inventory placement, and design targeted product bundles, these logs must be structured into atomic customer transactions.
 
-### Key Objectives:
+### Key Objectives
 
 * Aggregate sequential line-item records into unique transactional baskets indexed by customer ID and purchase date.
 * Encode high-cardinality basket lists into a sparse boolean transaction matrix.
