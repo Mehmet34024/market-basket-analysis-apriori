@@ -21,7 +21,7 @@ Point-of-sale (POS) transactional databases typically record items on individual
 
 ---
 
-## 2. Mathematical Framework
+## 2. Mathematical Framework:
 
 The Apriori algorithm evaluates relationships of the form $X \rightarrow Y$, where $X$ (antecedent) and $Y$ (consequent) are disjoint itemsets ($X \cap Y = \emptyset$).
 
