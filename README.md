@@ -4,7 +4,7 @@ This repository contains an end-to-end implementation of Association Rule Mining
 
 ---
 
-## 1. Problem Formulation & Objectives:
+## 1. Problem Formulation & Objectives
 
 Point-of-sale (POS) transactional databases typically record items on individual rows rather than grouping them per checkout basket. To uncover cross-selling opportunities, optimize inventory placement, and design targeted product bundles, these logs must be structured into atomic customer transactions.
 
